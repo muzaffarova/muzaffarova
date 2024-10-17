@@ -1,12 +1,7 @@
-### 👋 Hi, I’m @muzaffarova
-- 👀 I’m interested in....
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me...
-- 😄 Pronouns...
-- ⚡ Fun fact...
-
-<!---
-muzaffarova/muzaffarova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👋 Привет, я @muzaffarov
+- 👀 Меня интересует [Разработка ИГРИ, телеграмм-бот]
+- 🌱 Сейчас я изучаю [Python, SQL, django]
+- 💞️ Ищу возможности для сотрудничества в [я хачу участиват проекты игры или телеграмм-бот]
+- 📫 Как со мной связаться: [Мое телеграмм @MUZAFFAROV_SIROJIDDIN]
+- 😄 Мои местоимения: [я живу УЗБЕКИСТАНЕ]
+- ⚡ Интересный факт: [Я люблю игра футболю Я хател ситат профессиональный футболистим ]
